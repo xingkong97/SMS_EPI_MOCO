@@ -3,6 +3,4 @@ Phase compensation (correction) for data has been implemented in real time. The 
 SMS-SENSE and Split Slice-GRAPPA reconstruction are included in the demo. CSMs generation, CSMs phase alignment (kernelEig.m) and interpolation are also included in the demo. 
 
 How to use
-
-Run demo.m script in MATLAB. 
-
+  Run demo.m script in MATLAB. 
