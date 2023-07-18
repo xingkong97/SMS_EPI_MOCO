@@ -5,7 +5,7 @@ Since the receiver phase correction has been done during acquisition, the demo s
 
 For more details, Please read the paper. "Simultaneous multislice EPI prospective motion correction by real-time receiver phase correction and coil sensitivity map interpolation. Magn Reson Med. 2023;1-17. doi:10.1002/mrm.29789."
 
-Run demo.m script in MATLAB.
+Run demo.m script in MATLAB. 
 
 Code consists of the following parts:   
 
